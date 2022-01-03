@@ -1,6 +1,6 @@
 # Data Pagination and Filtering
 
-[Live Demo]()
+[Live Demo](https://chrysalynn.github.io/data_pagination_and_filtering/)
 
 ## This project was built using:
 
