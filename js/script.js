@@ -45,7 +45,6 @@ function addPagination(list) {
 
    let buttonActive = document.querySelector('button');
       buttonActive.className = 'active'
-      console.log(list);
 
    // This code block creates an active class for the button clicked, while removing the active class for the button clicked prior 
 
